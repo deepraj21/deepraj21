@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React, AI/ML**
 
-- 👨‍💻 All of my projects are available at [myprojects.github.io](https://deepraj21.github.io/myprojects.github.io/)
+- 👨‍💻 Visit my Projects at [myprojects](https://deepraj21.github.io/myprojects.github.io/)
 
-- 💻 Visit my Portfolio at [mysphere](https://my-sphere.000webhostapp.com/)
+- 💻 Visit my Portfolio at [mysphere](https://deepraj21.github.io/CodeClause_Portfolio_Website.github.io/)
 
-- 📝 I regularly write articles on [https://duckdesk.code.blog/](https://duckdesk.code.blog/)
+- 📝 I regularly write articles on [DuckDesk](https://duckdesk.code.blog/)
 
 - 💬 Ask me about **javaScript, python**
 
