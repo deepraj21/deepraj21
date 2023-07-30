@@ -9,7 +9,7 @@
 
 - 👨‍💻 Visit my Projects at [myprojects](https://deepraj21.github.io/myprojects.github.io/)
 
-- 💻 Visit my Portfolio at [mysphere](https://deepraj21.github.io/CodeClause_Portfolio_Website.github.io/)
+- 💻 Visit my Portfolio at [mysphere](https://deepraj21.github.io/MySphere/)
 
 - 📝 I regularly write articles on [DuckDesk](https://duckdesk.code.blog/)
 
