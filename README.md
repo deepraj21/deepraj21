@@ -8,11 +8,9 @@
 
 - 🌱 I’m currently learning **React, AI/ML**
 
-- 👨‍💻 Visit my Projects at [myprojects](https://deepraj21.github.io/myprojects.github.io/)
+- 👨‍💻 Visit my Projects at [REPOSITORY](https://repository21.netlify.app/)
 
-- 💻 Visit my Portfolio at [mysphere](https://www.deepraj.xyz/)
-
-- 📝 I regularly write articles on [DuckDesk](https://duckdesk.code.blog/)
+- 💻 Visit my Portfolio at [MYSPHERE](https://www.deepraj.xyz/)
 
 - 💬 Ask me about **javaScript, python**
 
