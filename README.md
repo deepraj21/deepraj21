@@ -24,4 +24,10 @@
 </a>
 </p>
 
+---
+
+[![An image of @deepraj21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepraj21)](https://holopin.io/@deepraj21)
+
+---
+
 <img src="https://raw.githubusercontent.com/deepraj21/deepraj21/output/snake.svg" alt="Snake animation" />
