@@ -1,18 +1,21 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hi, I'm Deepraj</h1>
-<h3 align="center">Committing every day to make a change</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+<h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hi, I'm Deepraj | Committing every day to make a change</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepraj21&label=Profile%20views&color=0e75b6&style=flat" alt="deepraj21"/> </p>
+<div>
+    <img src="https://komarev.com/ghpvc/?username=deepraj21&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="deepraj21" />
+    <a href="https://deepraj.is-a.dev/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-deepraj.is--a.dev-0A66C2?style=for-the-badge&logoColor=white" alt="portfolio" />
+    </a> 
+    <a href="https://x.com/deeprajbera21" target="_blank">
+     <img src="https://img.shields.io/badge/@deeprajbera21-000000?style=for-the-badge&logo=x&logoColor=white" />
+    </a>
+    <a href="mailto:deepraj21.bera@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-deepraj21.bera-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **Gen-ai**
 
-- 👨‍💻 Visit my Projects at [REPOSITORY](https://repository21.netlify.app/)
-
-- 💻 Visit my home at [127.0.0.1](https://deepraj.is-a.dev)
-
-- 📫 How to reach me **[deepraj21.bera@gmail.com](mailto:deepraj21.bera@gmail.com)**
 
 
 
