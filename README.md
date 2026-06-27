@@ -21,10 +21,15 @@
 |----------|-------------|
 | [Runstack](https://runstack.engineer/a) | Connects AI agents to 1000+ tools and integrations while minimizing context bloat through intelligent retrieval and orchestration. |
 | [Architech](https://architech-dev.tech/) | Visualize codebases, generate software architectures, and collaborate with AI to design scalable systems. |
+| [Resolve](https://resolve-ai-sre.vercel.app/) | AI SRE platform to analyze alerts, incidents, and logs, then use an LLM to stream RCA and remediation plans. |
+| [Sentry](https://sentry-pr-review.vercel.app) | It fetches the PR context from GitHub (files/diffs, commits, comments) and returns a merge-readiness report. |
 | [incident-triage-env](https://github.com/deepraj21/Incident-Triage-Env) | OpenEnv-compliant RL environment. Agent receives a production alert and investigates logs, metrics, deploys, and service graphs to submit a graded root-cause diagnosis. Ships as Docker + Gradio UI. |
 | [Tunr](https://www.tunr.dev/) | Resume optimization engine that parses JDs, maps skill gaps, and rewrites bullets to beat ATS keyword filters. NLP pipeline + real-time scoring. |
+| [Cloudtools](https://github.com/deepraj21/cloudtools) | Search-first cloud infrastructure tools for AI agents. Exposes AWS, GCP, and Azure APIs as LLM-compatible tools without context bloat. |
+| [ContextWall](https://npmjs.com/package/contextwall) | A TypeScript-first utility that intercepts API keys, tokens, PII, and secrets from strings before they are sent to any AI provider. |
 | [Synaptiq](https://synaptiq.buildlab.in/) | Predicts neural activation patterns (attention, emotion, comprehension) for multimodal content using models inspired by TRIBE — no brain scans needed. |
 | [DevHub](https://github.com/devhub-ai/devhub) | Developer collaboration platform that uses RAG and Knowledge Graphs to find compatible teammates and build stronger teams. |
+| [Devbots](https://devbots.vercel.app/) | AI powered custom chatbot builder and embedding platform which supports pre prompting, CLI and NPM. |
 | [Assessment360](https://github.com/deepraj21/Assessment360) | Student management and assessment platform focused on simplifying academic workflows. |
 | [Predicthub](https://predicthub.vercel.app/) | Stock forecasting using stacked LSTM networks trained on historical OHLCV data with real-time market feed integration. |
 | [GitInsight](http://gitinsight.buildlab.in/) | Indexes repositories and auto-generates wikis with architecture diagrams, dependency graphs, and per-module summaries. Plugs into GitHub OAuth. |
